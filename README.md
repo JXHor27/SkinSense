@@ -1,21 +1,5 @@
 # WIF2003 Web Programming Project Proposal
 
-## Team Information
-
-- **Team No:** 3
-- **Team Leader:** Wong Soon Jit
-- **Joint Project with WIF2002 SRE:** No
-- **Joint Project with WIA2002 Software Modelling:** No
-
-| No. | Name               | Student ID | Tutorial OCC No. | Team leader (√) | Joint Project with WIF2002 SRE (Yes/No) | Joint Project with WIA2002 Software Modelling (Yes/No) |
-|-----|--------------------|------------|------------------|-----------------|-------------------------------------------|------------------------------------------------------|
-| 1   | Wong Soon Jit      | 22004857   | 2                | √               | No                                        | No                                                   |
-| 2   | Hor Ji Xuan        | 22004836   | 2                |                 |                                           |                                                      |
-| 3   | Eric Lee Chun Kiat | 22004777   | 2                |                 |                                           |                                                      |
-| 4   | Tan Ke Ying        | 22004831   | 2                |                 |                                           |                                                      |
-| 5   | Goh Yu Heng        | 22004880   | 2                |                 |                                           |                                                      |
-| 6   | Ng Jie Ru          | 22004759   | 3                |                 |                                           |                                                      |
-
 ## Project Details
 
 ### Web Application Title
