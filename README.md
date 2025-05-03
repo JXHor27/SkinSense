@@ -16,5 +16,6 @@ Despite the growing demand for skincare products, both sellers and buyers often 
 ### Tools and Languages
 MERN stack (MongoDB, Express, React, Node.js)
 
-### UI
-
+### UI: screenshot of homepage of the application
+![Below is a screenshot of the home page of the application.
+](https://github.com/kahchun-haha/PM-MAD-Assignment/blob/main/homePage.png)
