@@ -1,19 +1,6 @@
-# WIF2003 Web Programming Project Proposal
+# WIF2003 Web Programming Group Assignment
 
-## Project Details
-
-### Web Application Title
-
-SkinSense
-
-### Target Users
-
-- Skin products vendors
-- Individuals interested in purchasing skincare products
-- Individuals interested in starting their skincare business
-
-### Brief Project Description
-
+## SkinSense - Skin Care E-commerce
 The project involves the development of a comprehensive website where sellers can showcase and sell their skincare products. The platform will offer an intuitive interface for both sellers and buyers, facilitating seamless transactions and interactions. Sellers will have the ability to create profiles, list their products, manage inventory, and engage with customers. On the other hand, buyers will have access to a diverse range of skincare products, detailed product information, secure payment options, and a personalized shopping experience.
 
 ### Problem Statement
@@ -49,13 +36,5 @@ Despite the growing demand for skincare products, both sellers and buyers often 
 |     |                      | Update order status      | To allow seller to notify the order status of the products | Goh Yu Heng |
 |     |                      | Share files and images   | To enable buyers and sellers to exchange files and images directly | Goh Yu Heng |
 
-### Additional Documents
 
-[Google Drive link](https://drive.google.com/drive/folders/1K0aCZ4AApGmIK8TehdL3ATDNRt31kjwO?usp=sharing) - reports from WIA2002 Software Modelling.
 
-### Brief Calculations and Minimum Requirements
-
-- The number of modules must be at least equivalent to the number of group members.
-- All the login, logout, registration, miscellaneous settings functions are considered as one module – the General Module.
-- Total number of functions must be at least equivalent to the number of group member multiplied by three.
-- Each module must have at least two functions.
