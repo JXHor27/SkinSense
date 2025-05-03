@@ -1,6 +1,6 @@
 # WIF2003 Web Programming Group Assignment
 
-## SkinSense - Skin Care E-commerce
+## SkinSense - Skin care E-commerce website
 The project involves the development of a comprehensive website where sellers can showcase and sell their skincare products. The platform will offer an intuitive interface for both sellers and buyers, facilitating seamless transactions and interactions. Sellers will have the ability to create profiles, list their products, manage inventory, and engage with customers. On the other hand, buyers will have access to a diverse range of skincare products, detailed product information, secure payment options, and a personalized shopping experience.
 
 ### Problem Statement
@@ -18,4 +18,4 @@ MERN stack (MongoDB, Express, React, Node.js)
 
 ### UI: screenshot of homepage of the application
 ![Below is a screenshot of the home page of the application.
-](https://github.com/kahchun-haha/PM-MAD-Assignment/blob/main/homePage.png)
+](https://github.com/JXHor27/SkinSense/blob/main/frontend/src/uploads/Screenshot%202025-05-03%20174123.png)
